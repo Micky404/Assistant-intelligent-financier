@@ -93,7 +93,7 @@ L'assistant peut répondre à 5 types de questions financières :
 ### Installation
 
 # Cloner le dépôt
-git clone https://github.com/votre-username/assistant-financier.git
+git clone https://github.com/Micky404/Assistant-intelligent-financier.git
 cd assistant-financier
 
 # Créer un environnement virtuel
